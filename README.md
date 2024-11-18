@@ -10,6 +10,7 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;"> 
